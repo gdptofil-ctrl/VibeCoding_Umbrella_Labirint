@@ -1,0 +1,8 @@
+- [Umbrella script style](umbrella-script-style.md) — hand-written look, ASCII art on top, "by @umbrella_3OHT <3" at the bottom
+- [Umbrella scripts folder](umbrella-scripts-folder.md) — back in Downloads\scripts since 09-28; check mtimes before editing, the folder moved twice
+- [engine3d project](engine3d-project.md) — Doom-like engine over Dota (2026-10-01) + mini-Dota top-down game (10-02): goals, what is unverified in game
+- [Lualingo project](lualingo-project.md) — Duolingo for Lua/Umbrella API (2026-10-02): MSK streak, adaptive tasks, unverified in game
+- [MC test server](mc-test-server.md) — local Fabric 1.20.1 pirate server for mc_bridge, Java needs proxy 10809
+- [Ability icons](ability-icons-project.md) — cosmetic ability icons via Panorama overlay in "Hud" (2026-10-25), works in game
+- [No patches, root cause](no-patches-root-cause.md) — user banned symptom fixes; name the root cause, repro the screenshot in mock
+- [umbrella-ui skill](umbrella-ui-skill.md) — user's UI kit installed as skill, user-invoked only; farm_helper panel uses it
